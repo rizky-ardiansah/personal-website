@@ -23,10 +23,10 @@ function Projects() {
           p="Hamburger Restaurant"
         />
         <ProjectCard
-          src={hipsster}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Hipsster"
-          p="Glasses Shop"
+          src={fitLift}
+          link="https://rizkyardiansah-uas.netlify.app/"
+          h3="SehatKu AI"
+          p="Saran Kesehatan"
         />
         <ProjectCard
           src={fitLift}
