@@ -11,16 +11,10 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard
-          src={freshBurger}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Fresh Burger"
-          p="Hamburger Restaurant"
-        />
-        <ProjectCard
           src={viberr}
           link="https://rizkyardiansah-movieapp.netlify.app/"
-          h3="Viberr"
-          p="Streaming App"
+          h3="Movie Search"
+          p="Movie Search App"
         />
         <ProjectCard
           src={fitLift}
@@ -29,10 +23,16 @@ function Projects() {
           p="Saran Kesehatan"
         />
         <ProjectCard
+          src={freshBurger}
+          link="https://github.com/Ade-mir/company-landing-page-2"
+          h3="Coming Soon"
+          p="Coming Soon"
+        />
+        <ProjectCard
           src={fitLift}
           link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="FitLift"
-          p="Fitness App"
+          h3="Coming Soon"
+          p="Coming Soon"
         />
       </div>
     </section>
